@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "모이뱅크",
+      "hasCanvas": false,
+      "bodyTextLen": 160,
+      "bodyTextHash": "94c754fdbc2c614186449d364423b13097cc9518b6865ba3781ad5c6a499cbce",
+      "bodyTextPrefix": "6학년 5반 · 금융놀이 모이뱅크 실제 주식의 오르내림은 그대로, 살 수 있는 가격만 1/1,000로 줄인 학급 투",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "모이뱅크",
+      "hasCanvas": false,
+      "bodyTextLen": 160,
+      "bodyTextHash": "94c754fdbc2c614186449d364423b13097cc9518b6865ba3781ad5c6a499cbce",
+      "bodyTextPrefix": "6학년 5반 · 금융놀이 모이뱅크 실제 주식의 오르내림은 그대로, 살 수 있는 가격만 1/1,000로 줄인 학급 투",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
